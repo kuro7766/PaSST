@@ -1,4 +1,4 @@
-name: ba3l
+name: base
 channels:
   - conda-forge
   - defaults
